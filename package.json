@@ -1,0 +1,30 @@
+{
+  "name": "devops-assessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "test": "jest",
+  "start": "node src/index.js"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arpit13111999/devops-assessment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Arpit13111999/devops-assessment/issues"
+  },
+  "homepage": "https://github.com/Arpit13111999/devops-assessment#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "prom-client": "^15.1.3"
+  },
+  "devDependencies": {
+    "jest": "^30.2.0",
+    "supertest": "^7.1.4"
+  }
+}
